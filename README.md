@@ -11,8 +11,11 @@ Please note:
 ```
 This license itself is licensed under the MIT License and be freely copied,
 modified, and re-used, provided the following conditions are met:
+
 	- A note is made of any modifications within the new license;
+
 	- The name is changed, to distinguish it from the original;
+	
 	- Any references to the name of the license steward (except to note that such
 		modified license differs from this License) are removed.
 ```

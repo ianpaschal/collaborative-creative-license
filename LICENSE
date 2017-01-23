@@ -7,7 +7,7 @@ Copyright (c) [year] [fullname]
 
 This License is designed for projects which fall in the area between
 “source-available” and “open-source.” Such projects provide more freedom to
-collaborators than simply providing the source code, however they do not grant
+collaborators than simply making the source code available, however they do not grant
 collaborators or end-users the four freedoms of true “free software” which
 typically define “open-source.”
 
@@ -49,15 +49,14 @@ modified, and re-used, provided the following conditions are met:
 1.6 “Documentation” is defined as documentation of the Source, both within the
     Source files and in external files, such as Wikis.
 
-1.7 “Materials” are defined as any graphics, models, animations, sounds, or
-    other assets produced for the Software.
+1.7 “Materials” are defined as any graphics, models, animations, sounds, music, or
+    other assets produced for the Software, which are provided with the Source or
+    Builds, and can be subject to their own respective licenses.
 
-1.8 “Binaries” are defined as compiled versions of the Software for end-users,
-    also known as “builds” in some contexts.
+1.8 “Builds” are defined as compiled versions of the Software for end-users.
 
-1.9 “Contribution” is defined as (a) any addition to the Software, or (b) any
-    derivative or copy of all or part of, the Software, with one or more
-    alterations to made it.
+1.9 “Contribution” is defined as any addition or alteration made to the Software
+    by other persons than The Owner.
 
 
 
@@ -65,20 +64,21 @@ modified, and re-used, provided the following conditions are met:
 --------------------------------------------------------------------------------
 
 2.1 This License grants any person obtaining a copy of the Source,
-    Documentation, and/or Materials, the right to use, copy/fork, modify, merge,
-    distribute, and re-publish the source and to permit persons, to whom the
+    Documentation, and/or Materials, the right to use, copy, modify,
+    distribute, and re-publish the Source and to permit persons, to whom the
     Source, Documentation, and/or Materials are made accessible, to do so
     as well, subject to the conditions of Section 3.
 
-2.2 This license grants the Owner the perpetual, irrevocable right to include a
-    Submission by a Contributor in any part of the Software and to use, copy,
+2.2 This license grants The Owner the perpetual, irrevocable right to include a
+    Contribution to any part of the Software and to use, copy,
     modify, merge, distribute, re-publish, sub-license, and sell the
     Contribution as part of the Software, subject to the conditions of Section
     3.
 
 2.3 This License expressly forbids any person obtaining a copy of the Source,
     Documentation, and/or Materials, other than the Owner, the right to
-    sub-license or sell the Source, Documentation, and/or Materials.
+    sub-license or sell the Source, Documentation, and/or Materials unless
+    explicitly allowed by other licenses.
 
 2.4 This license expressly forbids any person obtaining a Build of the
     Software, other than the Owner, the right to distribute, re-publish,

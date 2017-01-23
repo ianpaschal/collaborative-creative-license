@@ -16,12 +16,13 @@ who wish, while preserving the project’s owner’s exclusive right to distribu
 and sell the compiled Binaries.
 
 In this sense, contributing is an alternative method for the community
-surrounding a project to further the project’s development, through donation.
-In this case, it is code, artwork, animations, sounds, or other assets which is
+surrounding a project to further the project’s development through donation. In
+this case, it is code, artwork, animations, sounds, or other assets which are
 donated to the project, in place of (or in addition to) money.
 
 This License itself is licensed under the MIT License and be freely copied,
 modified, and re-used, provided the following conditions are met:
+
   - A note is made of any modifications within the new license;
   - The name is changed, to distinguish it from the original;
   - Any references to the name of the license steward (except to note that such
@@ -62,21 +63,35 @@ modified, and re-used, provided the following conditions are met:
 2. License Grants
 --------------------------------------------------------------------------------
 
-2.1 This License grants any person obtaining a copy of the Source, Documentation, and/or Materials, revokable right to use, copy/fork, modify, merge, distribute, and re-publish the source and to permit persons, to whom the Source, Documentation, and/or Materials are made accessible, to do so as well, subject to the conditions of Section 3.
+2.1 This License grants any person obtaining a copy of the Source,
+    Documentation, and/or Materials, revokable right to use, copy/fork, modify,
+    merge, distribute, and re-publish the source and to permit persons, to whom
+		the Source, Documentation, and/or Materials are made accessible, to do so
+		as well, subject to the conditions of Section 3.
 
-2.2 This License expressly forbids any person obtaining a copy of the Source, Documentation, and/or Materials, the right to sub-license or sell the Source, Documentation, and/or Materials.
+2.2 This License expressly forbids any person obtaining a copy of the Source,
+    Documentation, and/or Materials, the right to sub-license or sell the
+		Source, Documentation, and/or Materials.
 
-2.3 This license expressly forbids any person obtaining a Build of the Software the right to re-publish, sublicense, or sell the Build.
+2.3 This license expressly forbids any person obtaining a Build of the Software
+    the right to re-publish, sublicense, or sell the Build.
 
 
 
 3. Conditions
 --------------------------------------------------------------------------------
 The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software, including the Source, Documentation, Materials, and Builds.
+copies or substantial portions of the Software, including the Source,
+Documentation, Materials, and Builds.
 
 
 
 4. Warranty and Liability
 --------------------------------------------------------------------------------
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

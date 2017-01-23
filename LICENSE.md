@@ -1,0 +1,66 @@
+Collaborative Creative License 1.0
+
+Copyright (c) [year] [fullname]
+================================================================================
+
+                                    PREAMBLE
+
+This license is designed for projects which fall in the area between “source-available” and “open-source.” Such projects provide more freedom to collaborators than simply providing the source code, however they do not grant collaborators or end-users the four freedoms of true “free software” which typically define “open-source.”
+
+Instead, this license is designed to allow collaboration on a project by those who wish, while preserving the project’s owner’s exclusive right to distribute and sell the finished product.
+
+In this sense, contributing is an alternative method for the community surrounding a project to further the project’s development, through donation. In this case, it is material (code, artwork, sounds, or other assets) which is donated to the project, in place of (or in addition to) money.
+
+This license itself is licensed under the MIT License and be freely copied, modified, and re-used, provided the following conditions are met:
+	- A note is made of any modifications within the new license;
+	- The name is changed, to distinguish it from the original;
+	- Any references to the name of the license steward (except to note that such modified license differs from this License) are removed.
+
+
+
+                              TERMS AND CONDITIONS
+
+1. Definitions
+--------------------------------------------------------------------------------
+
+1.1 "This License" refers to version 1 of the Collaborative Creative License.
+
+1.2 “The Owner” refers to [fullname]
+
+1.3 “Contributor” refers to
+
+1.4 “The Software” is defined as the combination of the Source, Documentation, Materials, and Binaries.
+
+1.5 “The Source” is defined as any code written as part of the Software.
+
+1.6 “Documentation” is defined as documentation of the Source, both within the Source files and in external files, such as Wikis.
+
+1.7 “Materials” are defined as any graphics, models, or animations in 2-, 3-, and 4-dimensional file-formats, sounds, or other assets produced for the Software.
+
+1.8 “Binaries” are defined as compiled versions of the Software for end-users, also known as “builds” in some contexts.
+
+1.9 “Modification” is defined as any derivative or copy of all, or part of, the Software, with one or more alterations to made it.
+
+
+
+2. License Grants
+--------------------------------------------------------------------------------
+
+2.1 This License grants any person obtaining a copy of the Source, Documentation, and/or Materials, revokable right to use, copy/fork, modify, merge, distribute, and re-publish the source and to permit persons, to whom the Source, Documentation, and/or Materials are made accessible, to do so as well, subject to the conditions of Section 3.
+
+2.2 This License expressly forbids any person obtaining a copy of the Source, Documentation, and/or Materials, the right to sub-license or sell the Source, Documentation, and/or Materials.
+
+2.3 This license expressly forbids any person obtaining a Build of the Software the right to re-publish, sublicense, or sell the Build.
+
+
+
+3. Conditions
+--------------------------------------------------------------------------------
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software, including the Source, Documentation, Materials, and Builds.
+
+
+
+4. Warranty and Liability
+--------------------------------------------------------------------------------
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
